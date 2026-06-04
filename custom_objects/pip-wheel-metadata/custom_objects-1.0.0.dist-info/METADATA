@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: custom_objects
+Version: 1.0.0
+Summary: Custom objects for TensorFlow/Keras models
+Requires-Dist: tensorflow
+

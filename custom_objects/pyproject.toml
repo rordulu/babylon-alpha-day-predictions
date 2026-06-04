@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "custom_objects"
+version = "1.0.0"
+description = "Custom objects for TensorFlow/Keras models"
+dependencies = ["tensorflow"]
+

@@ -1,0 +1,43 @@
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+NVDA,2025-01-02 00:00:00-05:00,1.0,0.9839086,0.9839086,True,0.7741,Next-Day-Close-To-Next-Day-Open-Ratio,0.0263288115568413,140.00999450683594,143.6962912682808
+NVDA,2025-01-03 00:00:00-05:00,0.0,0.98672223,0.98672223,True,0.7741,Next-Day-Close-To-Next-Day-Open-Ratio,0.0263288115568413,148.58999633789062,152.50219435070267
+NVDA,2025-01-14 00:00:00-05:00,0.0,0.89346665,0.89346665,True,0.7741,Next-Day-Close-To-Next-Day-Open-Ratio,0.0263288115568413,133.6300048828125,137.14832409971183
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+NVDA,2025-01-03 00:00:00-05:00,0.0,0.9940702,0.9940702,True,0.8596726059913635,Next-Day-High-To-Next-Day-Open-Ratio,0.0346844921495778,148.58999633789062,153.74376489937796
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+DASH,2025-01-06 00:00:00-05:00,0.0,0.9969957,0.9969957,True,0.6448962092399597,Next-Day-High-To-Next-Day-Open-Ratio,0.0274151569860385,175.9499969482422,180.77369373627127
+DASH,2025-01-07 00:00:00-05:00,0.0,0.99862707,0.99862707,True,0.6448962092399597,Next-Day-High-To-Next-Day-Open-Ratio,0.0274151569860385,171.1999969482422,175.8934717405876
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+MA,2025-01-03 00:00:00-05:00,0.0,0.730389,0.730389,True,0.7191256880760193,Next-Day-High-To-Next-Day-Open-Ratio,0.0117120507644225,520.2032484115567,526.2958952647705
+MA,2025-01-06 00:00:00-05:00,0.0,0.7991614,0.7991614,True,0.7191256880760193,Next-Day-High-To-Next-Day-Open-Ratio,0.0117120507644225,512.9240127026068,518.9314047776711
+MA,2025-01-10 00:00:00-05:00,0.0,0.72697854,0.72697854,True,0.7191256880760193,Next-Day-High-To-Next-Day-Open-Ratio,0.0117120507644225,501.0,506.86773743297573
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+SPOT,2025-01-02 00:00:00-05:00,0.0,0.5721285,0.5721285,True,0.5529212355613708,Next-Day-Close-To-Next-Day-Open-Ratio,0.0181947036156398,459.9500122070313,468.3186663571482
+SPOT,2025-01-08 00:00:00-05:00,0.0,0.5653972,0.5653972,True,0.5529212355613708,Next-Day-Close-To-Next-Day-Open-Ratio,0.0181947036156398,476.0,484.66067892104456
+SPOT,2025-01-10 00:00:00-05:00,0.0,0.62532747,0.62532747,True,0.5529212355613708,Next-Day-Close-To-Next-Day-Open-Ratio,0.0181947036156398,452.4299926757813,460.6618222993432
+SPOT,2025-01-13 00:00:00-05:00,0.0,0.6028119,0.6028119,True,0.5529212355613708,Next-Day-Close-To-Next-Day-Open-Ratio,0.0181947036156398,463.3900146484375,471.8212586234128
+SPOT,2025-01-14 00:00:00-05:00,1.0,0.5570873,0.5570873,True,0.5529212355613708,Next-Day-Close-To-Next-Day-Open-Ratio,0.0181947036156398,476.1199951171875,484.7828573138246
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+SPOT,2025-01-02 00:00:00-05:00,1.0,0.61964244,0.61964244,True,0.4802306890487671,Next-Day-High-To-Next-Day-Open-Ratio,0.0271661009028325,459.9500122070313,472.4450606489066
+SPOT,2025-01-06 00:00:00-05:00,0.0,0.49352196,0.49352196,True,0.4802306890487671,Next-Day-High-To-Next-Day-Open-Ratio,0.0271661009028325,472.0,484.822399626137
+SPOT,2025-01-07 00:00:00-05:00,1.0,0.4891968,0.4891968,True,0.4802306890487671,Next-Day-High-To-Next-Day-Open-Ratio,0.0271661009028325,462.7099914550781,475.28001777169555
+SPOT,2025-01-10 00:00:00-05:00,0.0,0.5249798,0.5249798,True,0.4802306890487671,Next-Day-High-To-Next-Day-Open-Ratio,0.0271661009028325,452.4299926757813,464.72075150827936
+SPOT,2025-01-13 00:00:00-05:00,0.0,0.56098515,0.56098515,True,0.4802306890487671,Next-Day-High-To-Next-Day-Open-Ratio,0.0271661009028325,463.3900146484375,475.978514543742
+SPOT,2025-01-14 00:00:00-05:00,1.0,0.5554549,0.5554549,True,0.4802306890487671,Next-Day-High-To-Next-Day-Open-Ratio,0.0271661009028325,476.1199951171875,489.0543189463972
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+V,2025-01-02 00:00:00-05:00,0.0,0.6249365,0.6249365,True,0.5606976747512817,Next-Day-High-To-Next-Day-Open-Ratio,0.0122217080519179,314.17999267578125,318.0198088220183
+V,2025-01-03 00:00:00-05:00,0.0,0.5664596,0.5664596,True,0.5606976747512817,Next-Day-High-To-Next-Day-Open-Ratio,0.0122217080519179,315.010009765625,318.8599701384122
+V,2025-01-13 00:00:00-05:00,0.0,0.5933738,0.5933738,True,0.5606976747512817,Next-Day-High-To-Next-Day-Open-Ratio,0.0122217080519179,308.75,312.5234523610296
+V,2025-01-14 00:00:00-05:00,0.0,0.5678177,0.5678177,True,0.5606976747512817,Next-Day-High-To-Next-Day-Open-Ratio,0.0122217080519179,313.67999267578125,317.51369796799236
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
+WMT,2025-01-02 00:00:00-05:00,0.0,0.7220174,0.7220174,True,0.5635435581207275,Next-Day-High-To-Next-Day-Open-Ratio,0.0123283731839865,90.1500015258789,91.26140438722689
+WMT,2025-01-03 00:00:00-05:00,1.0,0.7974452,0.7974452,True,0.5635435581207275,Next-Day-High-To-Next-Day-Open-Ratio,0.0123283731839865,90.83000183105467,91.94978798993009
+WMT,2025-01-07 00:00:00-05:00,0.0,0.7361887,0.7361887,True,0.5635435581207275,Next-Day-High-To-Next-Day-Open-Ratio,0.0123283731839865,91.11000061035156,92.23323869866921
+Orig_Ticker,Date,y-value,y-predict,y-predict-original,y-predict-binary,Threshold,Target,Target-Val,Next-Day-Open,Final-Price
